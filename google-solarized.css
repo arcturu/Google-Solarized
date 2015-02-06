@@ -1,0 +1,61 @@
+html, body {
+	background-color: #002b36!important;
+	color: #93a1a1!important;
+}
+
+a {
+	color: #268bd2!important;
+}
+
+._Rm {
+	color: #859900!important;
+}
+
+.st {
+	color: #839496!important;
+}
+
+#gb_70 {
+	color: #ffffff!important;
+}
+
+.ad_button {
+	background-color: transparent!important;
+}
+
+._Fmb, ._Fmb:hover, ._Fmb.selected, ._Fmb.selected:hover {
+	background-color: transparent!important;
+}
+
+.hdtb-mn-o, .hdtb-mn-c, .ab_dropdown {
+	background-color: #eee8d5!important;
+	border: #fdf6e3!important;
+	box-shadow: none!important;
+}
+
+.gb_Xb {
+	background-color: #002b36!important;
+}
+
+#hdtbSum, .appbar {
+	background-color: #073642!important;
+	border-bottom: solid 1px #002b36!important;
+}
+
+#fbar {
+	background-color: #073642!important;
+	border-top: solid 1px #002b36!important;
+}
+
+#gbqfqw {
+	background-color: #eee8d5!important;
+	border: solid 1px #073642!important;
+}
+
+.gstl_0.sbib_a {
+	background-color: #eee8d5!important;
+}
+
+#gbqfq {
+	color: #586e75!important;
+}

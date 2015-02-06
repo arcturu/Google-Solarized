@@ -1,0 +1,19 @@
+{
+	"manifest_version": 2,
+	"name": "Google Solarized",
+	"version": "1.0",
+	"description": "Apply Solarized dark theme on Google search pages.",
+	"icons": {"128": "icon.png"},
+	"content_scripts": [
+		{
+			"matches": [
+				"http://www.google.com/search*",
+				"http://www.google.co.jp/search*",
+				"https://www.google.com/search*",
+				"https://www.google.co.jp/search*"
+			],
+			"css": ["google-solarized.css"]
+		}
+	]
+}
+
